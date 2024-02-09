@@ -22,7 +22,7 @@ Caso esteja utilizando o Ubuntu, você precisa instalar o pacote `python3-venv` 
 
 ### macOS
 
-No macOS, o Python já vem instalado por padrão. Para verificar a versão instalada, abra o terminal e execute o comando `python --version`. O resultado deve ser a versão do Python instalada. Apenas certifique-se de que a versão instalada é igual ou superior à versão 3.6.
+No macOS, o Python já vem instalado por padrão. Para verificar a versão instalada, abra o terminal e execute o comando `which python` ou ainda `which python3`. O resultado deve ser a versão do Python instalada. Apenas certifique-se de que a versão instalada é igual ou superior à versão 3.6.
 
 ## Instalação do VSCode
 
